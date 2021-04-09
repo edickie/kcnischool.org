@@ -1,5 +1,5 @@
 ---
-title: "Canadian Computational Neuroscience Spotlight"
-description: "V2: Bridging the Scales of Computational Neuroscience taking place May 17-18 2021. Register at crowdcast.io/e/ccnsv2/register"
-logo: "gem"
+title: Krembil Centre for Neuroinformatics Summer School
+description: Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience.  July 5-14, 2021.  Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health, Toronto" 
+logo: "fa-laptop"
 ---
