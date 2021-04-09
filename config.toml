@@ -1,12 +1,6 @@
-#baseURL = "https://krembilneuroinformatics.github.io/ccns"
-#languageCode = "en-us"
-#title = "Canadian Computational Neuroscience Spotlight"
-#theme = "dimension"
-
-baseurl = "https://krembilneuroinformatics.github.io/ccns"
-#baseurl = "http://example.org"
-#title = "KCNI Summer School 2020 <br> <br> Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience"
-title = "Canadian Computational Neuroscience Spotlight"
+baseurl = "http://kcnischool.org"
+#title = "KCNI Summer School 2021 <br> <br> Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience"
+title = "KCNI Summer School 2021"
 # <br> <br> Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience"
 
 
@@ -17,9 +11,8 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = "Bridging the Scales of Computational Neuroscience <br> <br> 17-18 May 2021 <br> <br> ccnsmeeting.ca <br> <br> <a href='https://www.crowdcast.io/e/ccnsv2/register'>Register Here</a><br> "
-  #description = "Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience <br> <br> 5-14 July 2021 <br> <br> Krembil Centre for Neuroinformatics <br> Centre for Addiction and Mental Health <br>Toronto <br><br> krembilneuroinformatics.ca <br> "
-  #description = "<br> <br> 6-12 July 2020 <br> <br> Krembil Centre for Neuroinformatics <br> Centre for Addiction and Mental Health <br>Toronto <br>"
+  description = "Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience <br> <br> 5-14 July 2021 <br> <br> Krembil Centre for Neuroinformatics <br> Centre for Addiction and Mental Health <br>Toronto <br><br> krembilneuroinformatics.ca <br> "
+  #description = "<br> <br> 5-14 July 2021 <br> <br> Krembil Centre for Neuroinformatics <br> Centre for Addiction and Mental Health <br>Toronto <br>"
   #description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /> <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
   #description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /> <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
   logo = "fa-laptop"
@@ -58,4 +51,3 @@ weight = 1
 #weight = 2
 #title = "Dimension"
 #description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /> <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
-
