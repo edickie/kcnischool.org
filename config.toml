@@ -1,4 +1,5 @@
-baseurl = "http://kcnischool.org"
+#baseurl = "http://kcnischool.org"
+baseurl = "test1"
 #title = "KCNI Summer School 2021 <br> <br> Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience"
 title = "KCNI Summer School 2021"
 # <br> <br> Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience"
