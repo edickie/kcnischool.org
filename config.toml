@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  logo = "fa-laptop"
+  #logo = "fa-laptop"
 
 [[params.social]]
   medium = "twitter"
