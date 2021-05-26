@@ -15,5 +15,5 @@ To ensure that all attendees can fully follow and benefit from the practical ass
 No previous formal training in psychiatry or informatics is necessary, however - and researchers from diverse backgrounds (e.g. medicine, computer science, biology, psychology, engineering etc.) are encouraged to apply.
 
 
-**Total Enrolment:** 15
+**Total Enrolment:** no limit
 
