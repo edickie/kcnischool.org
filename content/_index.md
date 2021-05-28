@@ -1,4 +1,4 @@
 ---
 title: Krembil Centre for Neuroinformatics Summer School
-description: Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience.  July 5-14, 2021.  Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health, Toronto. REGISTER [here](https://app.certain.com/profile/3248659)
+description: Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience.  July 5-14, 2021.  Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health, Toronto. REGISTER AT https://app.certain.com/profile/3248659
 ---
