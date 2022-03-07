@@ -10,17 +10,14 @@ draft = false
 
 Dr. Andreea Diaconescu     
 Dr. Erin Dickie  
-Dr. Daniel Felsky  
-Dr. Leon French  
+Dr. Daniel Felsky   
 Dr. John Griffiths  
 Dr. Etay Hay  
-Dr. Shreejoy Tripathy
-Dr. Joanna Yu
-
-Dr. Laura Sikstrom
-
-Dr. Daniel Buchman
-
+Dr. Shreejoy Tripathy 
+Dr. Joanna Yu 
+Dr. Laura Sikstrom 
+Dr. Daniel Buchman 
+Dr. Abhishek (Abhi) Pratap 
 
 
 
