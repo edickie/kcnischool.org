@@ -13,11 +13,12 @@ Dr. Erin Dickie
 Dr. Daniel Felsky   
 Dr. John Griffiths  
 Dr. Etay Hay  
-Dr. Shreejoy Tripathy 
-Dr. Joanna Yu 
-Dr. Laura Sikstrom 
-Dr. Daniel Buchman 
-Dr. Abhishek (Abhi) Pratap 
+Dr. Shreejoy Tripathy  
+Dr. Joanna Yu  
+Dr. Laura Sikstrom  
+Dr. Daniel Buchman  
+Dr. Abhishek (Abhi) Pratap  
+
 
 
 
