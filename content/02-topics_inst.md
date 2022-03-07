@@ -1,5 +1,5 @@
 +++
-title = "02-Topics"
+title = "02-Topics & Instructors"
 weight = 20
 draft = false
 +++
