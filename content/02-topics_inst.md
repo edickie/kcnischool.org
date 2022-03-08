@@ -18,3 +18,16 @@ draft = false
 distinct symptomatic and functional trajectories using biostatistical approaches 
 - **Ethics, Fairness and Health Equity:** Explore the ethical dimensions of data collection, curation and model building and their impact on fairness and health equity using concrete tools and best practices 
 
+## Lead Instructors: 
+
+Dr. Andreea Diaconescu     
+Dr. Erin Dickie  
+Dr. Daniel Felsky   
+Dr. John Griffiths  
+Dr. Etay Hay  
+Dr. Shreejoy Tripathy  
+Dr. Joanna Yu  
+Dr. Laura Sikstrom  
+Dr. Daniel Buchman  
+Dr. Abhishek (Abhi) Pratap  
+
