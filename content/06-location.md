@@ -4,6 +4,8 @@ weight = 20
 draft = false
 +++
 
+This year, we intend our project week will be offered **in-person** (barring new pandemic restrictions), at the Krembil Centre for Neuroinformatics in the Centre for Addiction and Mental Health (250 College Street) Toronto, Canada.
+
 Visit the KCNI website - www.krembilneuroinformatics.ca
 
 
