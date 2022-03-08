@@ -1,5 +1,5 @@
 +++
-title = "06-About Us 2"
+title = "06-Location"
 weight = 20
 draft = false
 +++
