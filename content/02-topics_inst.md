@@ -18,6 +18,21 @@ draft = false
 distinct symptomatic and functional trajectories using biostatistical approaches 
 - **Ethics, Fairness and Health Equity:** Explore the ethical dimensions of data collection, curation and model building and their impact on fairness and health equity using concrete tools and best practices 
 
+## Learning Objectives
+
+Participants will be introduced to all the topics listed below via our **public virtual learning materials and online Q&A sessions**:
+
+ - Understand the fundamental concept of Psychiatric genetics
+ - Learn how to integrate psychiatric genetics  with multi-omics data (incl.  Single-cell transcriptomics)
+ - Learn how to model neuronal population activity in cortical circuits
+ - Learn how to model whole-brain macro-connectomics and neural dynamics
+ - Learn how to apply Bayesian models of perception & learning used to neuroimaging & electrophysiological data
+ - Integrate Psychiatric epidemiology and apply Population-based subtyping
+ - Ethics, fairness and health equity in Al and healthcare
+ - Understand collection and analysis of real-world data in mental health  
+
+In addition, participants selected for project week will study with an **in-depth focus on at least two of the above-listed topics** and apply that knowledge in self-directed learning projects.
+
 ## Lead Instructors: 
 
 Dr. Andreea Diaconescu     
