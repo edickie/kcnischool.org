@@ -1,8 +1,10 @@
 +++
-title = "05-About Us"
+title = "06-Location"
 weight = 20
 draft = false
 +++
+
+This year, we intend our project week will be offered **in-person** (barring new pandemic restrictions), at the Krembil Centre for Neuroinformatics in the Centre for Addiction and Mental Health (250 College Street) Toronto, Canada.
 
 Visit the KCNI website - www.krembilneuroinformatics.ca
 
@@ -22,5 +24,3 @@ What we are doing is unique across the globe and will lead to more precise treat
 
 
 <iframe width="550" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJRwc978A0K4gRnYJazmtT2Og&key=AIzaSyCarwwzZW_5EE1Jnfn8MV--vjDbqGd9cO8" allowfullscreen></iframe>
-
-
