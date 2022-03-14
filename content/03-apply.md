@@ -8,9 +8,11 @@ draft = false
 
 ## Application Process (Project Week)
 
-Applications for participantion in project week (July 4-8, 2022) will open shortly and close in mid-April 2022.
+Applications for participantion in project week (July 4-8, 2022) are now open and close April 15, 2022.
 
-We will be contacting those selected to attend the summer school with an invitation to register. This year, we intend our project week will be offered In-person (barring new pandemic restrictions), at the Krembil Centre for Neuroinformatics in the Centre for Addiction and Mental Health (250 College Street) Toronto, Canada.
+[**Click here to apply to participate in Project Week**](https://edc.camhx.ca/redcap/surveys/?s=FRP9RPEE7LRRFXAH)
+
+We will be contacting those selected to attend the summer school with an invitation to register. This year, we intend our project week will be offered **in-person** (barring new pandemic restrictions), at the Krembil Centre for Neuroinformatics in the Centre for Addiction and Mental Health (250 College Street) Toronto, Canada.
 
 
 ## Eligibility and prerequisites: 
