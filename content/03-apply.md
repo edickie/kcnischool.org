@@ -8,9 +8,9 @@ draft = false
 
 ## Application Process (Project Week)
 
-Applications for participantion in project week (July 4-8, 2022) are now open and close April 15, 2022.
+Applications for participantion in project week (July 4-8, 2022) are closed April 15, 2022.
 
-**Applications for 2022 now closed**
+**Sorry, applications for 2022 now closed**
 
 We will be contacting those selected to attend the summer school with an invitation to register. This year, we intend our project week will be offered **in-person** (barring new pandemic restrictions), at the Krembil Centre for Neuroinformatics in the Centre for Addiction and Mental Health (250 College Street) Toronto, Canada.
 
