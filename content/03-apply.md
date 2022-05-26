@@ -8,7 +8,7 @@ draft = false
 
 ## Application Process (Project Week)
 
-Applications for participantion in project week (July 4-8, 2022) are closed April 15, 2022.
+Applications for participantion in project week (July 4-8, 2022) closed April 15, 2022.
 
 **Sorry, applications for 2022 now closed**
 
