@@ -26,6 +26,8 @@ Students will be provided with a collection of virtual didactic teaching (lectur
 
 Successful applications to Project Week will be mentored (in-person or hybrid) by KCNI Scientists as they complete one-week intensive group projects matched to their interests. These projects will allow participants to build mastery in selected integrative research methods. All project week participants will take part in each full day of training. Students will have the opportunity for project-specific discussions, collaboration, and guidance outside of structured time. Students will present their group project to KCNI Scientists at the conclusion of Project Week. Project week will occur in person at CAMH KCNI and be supplemented by multiple networking, collaboration, and socializing opportunities.
 
+More information on 2022 Project Week is posted to [our confluence page](https://kcniconfluence.camh.ca/display/ED/KCNI+School+2022+Project+Week).
+
 
 
 
