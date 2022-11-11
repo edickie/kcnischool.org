@@ -42,8 +42,7 @@ Participants will be introduced to all the topics listed below via our [virtual 
 - **Fundamental Methods for Single-Cell Transcriptome Analysis** - Dr Shreejoy Tripathy and the Computational Genomics Group
 - **Simulating Brain Microcircuit Activity and Signals in Mental Health** - Dr Etay Hay and Frank Mazza of the Brain Circuit Modeling Group
 - **Neuroimaging Connectomics** - Drs John Griffiths and Erin Dickie
-- **Whole-Brain Modelling**: Learn how to model whole-brain macro-connectomics and neural dynamics
-  - Dr John Griffiths and the Whole Brain Modeling Group
+- **Whole-Brain Modelling** - Dr John Griffiths and the Whole Brain Modeling Group
 - **Bayesian Models of Learning and Integration of Neuroimaging Data** - Dr Andreea Diaconescu and the Cognitive Network Modeling Lab
 - **Population-Based Data Resources & Integrative Research Methods** - Drs Daniel Felsky and Joanna Yu - KCNI Brain Health Databank
   
