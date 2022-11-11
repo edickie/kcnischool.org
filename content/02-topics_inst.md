@@ -18,7 +18,7 @@ draft = false
 distinct symptomatic and functional trajectories using biostatistical approaches 
 - **Ethics, Fairness and Health Equity:** Explore the ethical dimensions of data collection, curation and model building and their impact on fairness and health equity using concrete tools and best practices 
 
-Participants will be introduced to all the topics listed below via our (virtual learning series)[https://kcniconfluence.camh.ca/display/ED/KCNI+School+Virtual+Learning+Series]:
+Participants will be introduced to all the topics listed below via our [virtual learning series](https://kcniconfluence.camh.ca/display/ED/KCNI+School+Virtual+Learning+Series):
 
 - Understand the fundamental concept of Psychiatric genetics
 - Learn how to integrate psychiatric genetics  with multi-omics data (incl.  Single-cell transcriptomics)
