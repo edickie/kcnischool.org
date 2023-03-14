@@ -18,10 +18,7 @@ draft = false
 distinct symptomatic and functional trajectories using biostatistical approaches 
 - **Ethics, Fairness and Health Equity:** Explore the ethical dimensions of data collection, curation and model building and their impact on fairness and health equity using concrete tools and best practices 
 
-
-## Learning Objectives
-
-Participants will be introduced to all the topics listed below via our **public virtual learning materials and online Q&A sessions**:
+Participants will be introduced to all the topics listed below via our [virtual learning series](https://kcniconfluence.camh.ca/display/ED/KCNI+School+Virtual+Learning+Series):
 
 - Understand the fundamental concept of Psychiatric genetics
 - Learn how to integrate psychiatric genetics  with multi-omics data (incl.  Single-cell transcriptomics)
@@ -30,20 +27,27 @@ Participants will be introduced to all the topics listed below via our **public 
 - Learn how to apply Bayesian models of perception & learning used to neuroimaging & electrophysiological data
 - Integrate Psychiatric epidemiology and apply Population-based subtyping
 - Ethics, fairness and health equity in Al and healthcare
-- Understand collection and analysis of real-world data in mental health  
+- Understand collection and analysis of real-world data in mental health 
 
-In addition, participants selected for project week will study with an **in-depth focus on at least two of the above-listed topics** and apply that knowledge in self-directed learning projects.
+## Virtual Learning Modules / Instructors
 
-## Lead Instructors: 
+- **A Multiscale Approach to Brain Disorders** - Dr. Sean Hill, Director of KCNI
+- **Problems and opportunities in the diagnosis and treatment of major depression** - Drs Victor Tang and Brett Jones  - Clinician Scientists at CAMH
+- **Computing Fundamentals** - KCNI Biostatics and KCNI Operations
+- **Reproducible Science (including Git, Docker and Binder)**  - Drs Erin Dickie & Sejal Patel
+- **Applied Ethics in Machine Learning**  - Dr. Daniel Buchman  
+- **Fairness -  Justice Equity, Diversity and Inclusion -  and Health Equity**  - Drs  Laura Sikstrom & Marta Maslej 
+- **Digital Health for Mental Health** - Dr Abishek Pratap
+- **Fundamental Methods for Genomic Analysis** - Dr Daniel Felsky
+- **Fundamental Methods for Single-Cell Transcriptome Analysis** - Dr Shreejoy Tripathy and the Computational Genomics Group
+- **Simulating Brain Microcircuit Activity and Signals in Mental Health** - Dr Etay Hay and Frank Mazza of the Brain Circuit Modeling Group
+- **Neuroimaging Connectomics** - Drs John Griffiths and Erin Dickie
+- **Whole-Brain Modelling** - Dr John Griffiths and the Whole Brain Modeling Group
+- **Bayesian Models of Learning and Integration of Neuroimaging Data** - Dr Andreea Diaconescu and the Cognitive Network Modeling Lab
+- **Population-Based Data Resources & Integrative Research Methods** - Drs Daniel Felsky and Joanna Yu - KCNI Brain Health Databank
+  
 
-Dr. Andreea Diaconescu     
-Dr. Erin Dickie  
-Dr. Daniel Felsky   
-Dr. John Griffiths  
-Dr. Etay Hay  
-Dr. Shreejoy Tripathy  
-Dr. Joanna Yu  
-Dr. Laura Sikstrom  
-Dr. Daniel Buchman  
-Dr. Abhishek (Abhi) Pratap  
+
+
+ 
 
